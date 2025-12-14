@@ -6,7 +6,7 @@ Built with secure IAM permissions, scalable separation of storage/compute, and C
 
 ---
 ## Project Structure
-
+```bash
 aws-s3-lambda-rds-dataflow/
 ├─ lambda/
 │  ├─ handler.py
@@ -19,7 +19,7 @@ aws-s3-lambda-rds-dataflow/
 ├─ docs/
 ├─ .gitignore
 └─ README.md
-
+```
 ---
 
 ## Tech
